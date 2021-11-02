@@ -26,41 +26,7 @@ Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever yo
 
 
 
-## File Organization 🗄️
 
-```shell
-├── Raining-Emoji (Current Directory)
-    ├── emoji : Emoji Folder
-        ├── 0.png
-        ├── 1.png
-            .
-            .
-        └── 12.png
-    ├── utils : Utils Folder
-        ├── cv_utils.py : OpenCV utilities
-        └── physics_utils.py : Pymunk utilities
-    ├── RainingEmoji.py : Main Application
-    ├── LICENSE
-    ├── requirements.txt
-    └── readme.md
-        
-```## File Organization 🗄️
-
-```shell
-├── Raining-Emoji (Current Directory)
-    ├── emoji : Emoji Folder
-        ├── 0.png
-        ├── 1.png
-            .
-            .
-        └── 12.png
-    ├── utils : Utils Folder
-        ├── cv_utils.py : OpenCV utilities
-        └── physics_utils.py : Pymunk utilities
-    ├── RainingEmoji.py : Main Application
-    ├── LICENSE
-    ├── requirements.txt
-    └── readme.md
         
 ## File Organization 🗄️
 
