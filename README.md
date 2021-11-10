@@ -22,7 +22,7 @@ Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever yo
 10) Dog 🐶
 11) Pig 🐷
 12) Rabbit 🐰
-13) Frog 🐸
+13) Frog 🐸 <br>
 other emojis if added
 
 
